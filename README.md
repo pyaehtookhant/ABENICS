@@ -16,3 +16,6 @@ This project is to implement ABENICS mechanism which has 3 degree of freedom onl
 - One Spherical Joint
     - Output Link Integration
     - Gear Holder
+
+Ref: https://ieeexplore.ieee.org/document/9415699
+YouTube: https://youtu.be/hhDdfiRCQS4?si=ak4TrICTeUQ-5jQy
